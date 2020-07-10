@@ -1,6 +1,6 @@
 # Moringa_autolib
 
-This repository contains the results and technical aspects  of the Data Science Core IP "The research problem is to come up with a hypothesis question and formulate the null and alternate hypothesis from the data set described in the jupyter notebook."
+This repository contains the results and technical aspects  of the Data Science Core IP "The research problem is to come up with a hypothesis question and formulate the null and alternate hypothesis from the data set described in the jupyter notebook." Then find evidence to either of the hypothesis's by running the appropriate tests.
 
 ## Getting Started
 
